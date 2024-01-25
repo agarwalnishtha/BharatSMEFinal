@@ -1,0 +1,10 @@
+# .gitignore
+
+# Node.js
+node_modules/
+
+# Build files
+/build
+
+# Environment variables
+.env
